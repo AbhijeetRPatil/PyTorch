@@ -1,2 +1,2 @@
 # PyTorch
-Everything PyTorch 
+PyTorch Bootcamp
